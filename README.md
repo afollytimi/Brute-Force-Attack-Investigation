@@ -135,7 +135,7 @@ This project demonstrates:
 
 ## Author
 
-**Manus AI** - SOC Analyst Portfolio Project
+Timilehin Afolayan - SOC Analyst Portfolio Project
 
 ## License
 
