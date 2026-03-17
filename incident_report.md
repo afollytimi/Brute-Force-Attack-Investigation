@@ -1,7 +1,7 @@
 # Incident Report: Brute-Force Attack Investigation
 
 **Date:** March 17, 2026
-**Author:** Manus AI
+**Author:** Timilehin Afolayan
 
 ## 1. Executive Summary
 
