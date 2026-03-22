@@ -1,0 +1,22 @@
+[
+  {
+    "city": "petalborough",
+    "kind": "car",
+    "title": "Compact Car - Petalborough Auto"
+  },
+  {
+    "city": "petalborough",
+    "kind": "car",
+    "title": "SUV - Petalborough Auto"
+  },
+  {
+    "city": "rustburg",
+    "kind": "car",
+    "title": "Economy Car - Rustburg Rentals"
+  },
+  {
+    "city": "shaleport",
+    "kind": "car",
+    "title": "Luxury Sedan - Shaleport Premium"
+  }
+]
